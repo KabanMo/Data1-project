@@ -1,3 +1,4 @@
+## 📈Overview
 
 Do different English speaking countries have different tastes in music? 
 
@@ -5,7 +6,7 @@ Do different English speaking countries have different tastes in music?
 
 This project extracts the top 50 songs from UK, US, AUS, SA, INDIA, and globally from Spotify API. 
 
-To perform our analysis, we utilized Jupyter Notebook, along with popular Python libraries such as `json`, `pandas`, `matplotlib`, and `seaborn`. 
+To perform our analysis, we utilised Jupyter Notebook, along with popular Python libraries such as `json`, `pandas`, `matplotlib`, and `seaborn`. 
 
 Our results can be used to help music industry professionals decide where their music may be most popular. They could also be used by streaming services to recommend music that is more likely to be suited to individuals based on their location. 
 
@@ -28,6 +29,5 @@ The code is in a Jupyter notebook .ipynb which can be downloaded and run. It inl
 
 
 ## 💜Acknowledgements
-
 
 Thank you to all of the CFG team for their support throughout ther entire course, with special thanks to our course instructors Georgia Whitton and Andreea Avramescu for all of their teaching, knowledge, and paitence. 
