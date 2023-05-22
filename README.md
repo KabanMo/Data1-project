@@ -4,7 +4,7 @@ Do different English speaking countries have different tastes in music?
 
 <img src = 'https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-marilyn-scott-0.png'>
 
-This project extracts the top 50 songs from UK, US, AUS, SA, INDIA, and globally from Spotify API. 
+This project extracts the top 50 songs from UK🇬🇧, US🇺🇸, AUS🇦🇺, SA🇿🇦, INDIA🇮🇳, and globally🌍 from Spotify API. 
 
 To perform our analysis, we utilised Jupyter Notebook, along with popular Python libraries such as `json`, `pandas`, `matplotlib`, and `seaborn`. 
 
