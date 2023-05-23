@@ -15,7 +15,12 @@ If you wish to contribute to our project then please contact us on GitHub. We wo
 
 ## 💻Installation
 
-The code is in a Jupyter notebook .ipynb which can be downloaded and run. It inlcudes all the libraries that need to be installed to run the code, which can be installed via pip. API reference
+The code is in a Jupyter notebook .ipynb which can be downloaded and run. It includes all the libraries that need to be installed to run the code, which can be installed via pip. 
+
+
+## :information_source:API reference
+
+https://api.spotify.com/v1/
 
 
 ## 🌟Authors
@@ -30,4 +35,4 @@ The code is in a Jupyter notebook .ipynb which can be downloaded and run. It inl
 
 ## 💜Acknowledgements
 
-Thank you to all of the CFG team for their support throughout ther entire course, with special thanks to our course instructors Georgia Whitton and Andreea Avramescu for all of their teaching, knowledge, and paitence. 
+Thank you to all of the CFG team for their support throughout the entire course, with special thanks to our course instructors Georgia Whitton and Andreea Avramescu for all of their teaching, knowledge, and patience. 
