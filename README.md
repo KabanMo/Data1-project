@@ -1,16 +1,17 @@
 ## 📈Overview
 
+# 📝Research Questions
 1. What are the attributes of the top 50 tracks in the UK, US, AUS, INDIA and SA that contribute to the songs’ popularity? 
-
 2. How can the data be visualised to effectively communicate the differences and similarities in the top tracks between countries?
-
 
 <img src = 'https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-marilyn-scott-0.png'>
 
-This project extracts the top 50 songs from UK🇬🇧, US🇺🇸, AUS🇦🇺, SA🇿🇦, INDIA🇮🇳, and globally🌍 from [Spotify API](https://api.spotify.com/v1/), and look at the differences and similarities among countries.
+This project extracts the top 50 songs from UK🇬🇧, US🇺🇸, AUS🇦🇺, SA🇿🇦, INDIA🇮🇳, and globally🌍 from [Spotify API](https://api.spotify.com/v1/), and we look at the differences and similarities among the features of these tracks.
 
+# 🔧Methods
 To perform our analysis, we utilised Jupyter Notebook, along with popular Python libraries such as `numpy`,`json`, `pandas`, `matplotlib`, `WordCloud`, `SciPy`, `math`, `statistics` and `seaborn`. 
 
+# 🎯Target Audience
 Our results can be used to help music industry professionals decide where their music may be most popular. They could also be used by streaming services to recommend music that is more likely to be suited to individuals based on their location. 
 
 If you wish to contribute to our project then please contact us on GitHub. We would love to hear your insights and opinions. 
