@@ -1,6 +1,9 @@
 ## 📈Overview
 
-Do different English speaking countries have different tastes in music? 
+1. What are the attributes of the top 50 tracks in the UK, US, AUS, INDIA and SA that contribute to the songs’ popularity? 
+
+2. How can the data be visualised to effectively communicate the differences and similarities in the top tracks between countries?
+
 
 <img src = 'https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-marilyn-scott-0.png'>
 
