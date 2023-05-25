@@ -35,5 +35,3 @@ The code is in a Jupyter notebook .ipynb which can be downloaded and run. It inc
 # 💜Acknowledgements
 
 Thank you to all of the CFG team for their support throughout the entire course, with special thanks to our course instructors Georgia Whitton and Andreea Avramescu for all of their teaching, knowledge, and patience. 
-
-<img src = 'https://www.google.com/imgres?imgurl=https%3A%2F%2Fcodefirstgirls.com%2Fwp-content%2Fuploads%2F2022%2F04%2FCFGDegree-Logo-3.png&tbnid=NWmwkIc8_P7_OM&vet=12ahUKEwjFgaCSj5H_AhUUnCcCHbE4CD8QMygAegQIARB1..i&imgrefurl=https%3A%2F%2Fcodefirstgirls.com%2Fcourses%2F&docid=8vNPYS97LtC9OM&w=1000&h=500&q=cfg%20degree&ved=2ahUKEwjFgaCSj5H_AhUUnCcCHbE4CD8QMygAegQIARB1'>
