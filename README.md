@@ -1,8 +1,8 @@
 # 📈Overview
 
 ## 📝Research Questions
-1. What are the attributes of the top 50 tracks in the UK, US, AUS, INDIA and SA that contribute to the songs’ popularity? 
-2. How can the data be visualised to effectively communicate the differences and similarities in the top tracks between countries?
+1. Are there any differences in the type of music being listened to across different English speaking countries?
+2. How do audio features of the tracks contribute to the popularity of tracks? Does this change across different contexts? 
 
 <img src = 'https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-marilyn-scott-0.png'>
 
